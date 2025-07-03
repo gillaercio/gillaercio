@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gillaercio
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and English
+- 🌱 I’m currently learning HTML, CSS, JavaScript and English
 - 💞️ I try to collaborate with the community, even though I'm just getting started
 
 <!---
